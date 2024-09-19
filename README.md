@@ -10,14 +10,14 @@ To use this script, use one of the methods below:
 
 | Method    | Command                                                                                           |
 | :-------- | :------------------------------------------------------------------------------------------------ |
-| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/AstroLightz/zsh-setup/refs/heads/main/omz-setup.sh)"` |
-| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/AstroLightz/zsh-setup/refs/heads/main/omz-setup.sh)"`   |
+| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/AstroLightz/zsh-install-helper/refs/heads/main/omz-setup.sh)"` |
+| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/AstroLightz/zsh-install-helper/refs/heads/main/omz-setup.sh)"`   |
 
 ### Manual Installation
 It is a good idea to inspect scripts from projects you don't know. To direcly download and run the script, run the following:
 
 ```sh
-wget https://raw.githubusercontent.com/AstroLightz/zsh-setup/refs/heads/main/omz-setup.sh
+wget https://raw.githubusercontent.com/AstroLightz/zsh-install-helper/refs/heads/main/omz-setup.sh
 sh omz-setup.sh
 ```
 
