@@ -1,5 +1,8 @@
 <h1 align="center">ZSH Setup Helper</h1>
 
+> [!WARNING]
+> <b>All future development will be moved to the <a href="https://codeberg.org/AstroLightz/zsh-install-helper">Codeberg Mirror</a> going forward!!!</b>
+
 ## Description
 This script automates the process of setting up a customized ZSH environment, including installing Oh My Zsh, plugins, and dependencies. This script simplifies the setup process for users looking to enhance their terminal productivity and aesthetics.
 
